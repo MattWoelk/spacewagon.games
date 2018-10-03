@@ -16,7 +16,7 @@ p {
 	background-color: blue;
 	float: left;
 	clear: left;
-	width: 50%;
+	width: 40%;
 	text-align:right;
 }
 
@@ -24,14 +24,14 @@ p {
 	background-color: pink;
 	float: right;
 	clear: right;
-	width: 50%;
+	width: 60%;
 }
 
 #footer {
 	background-color: red;
 	float: left;
 	clear: left;
-	width: 50%;
+	width: 40%;
 	text-align:right;
 }
 
