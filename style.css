@@ -1,0 +1,50 @@
+* {
+	font-family: 'Chau Philomene One', sans-serif;
+	color: white;
+}
+
+body {
+	background-color: rgb(0, 19, 51);
+}
+
+p {
+	font-size: 24px;
+}
+
+
+#header {
+	background-color: blue;
+	float: left;
+	clear: left;
+	width: 50%;
+	text-align:right;
+}
+
+#game {
+	background-color: pink;
+	float: right;
+	clear: right;
+	width: 50%;
+}
+
+#footer {
+	background-color: red;
+	float: left;
+	clear: left;
+	width: 50%;
+	text-align:right;
+}
+
+@media screen and (max-width: 1000px) {
+
+	#header, #game, #footer{
+		float:none;
+		clear:none;
+		width: 100%;
+	}
+
+	#header, #footer {
+		text-align:center;
+	}
+
+}
