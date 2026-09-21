@@ -7,12 +7,14 @@ body {
 	background-color: black;
 }
 
-h1 {
+p {
 	font-size: 3em;
+	line-height: 1.5;
 }
 
-p {
-	font-size: 24px;
+a {
+    text-decoration: underline;
+    text-underline-offset: 0.2cap;
 }
 
 
