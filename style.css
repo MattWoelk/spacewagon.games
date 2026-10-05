@@ -10,6 +10,8 @@ body {
 p {
 	font-size: 3em;
 	line-height: 1.5;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
 }
 
 a {
